@@ -1,2 +1,9 @@
 # virtual environment
 .venv
+
+#checkpoints and cache
+.ipynb_checkpoints
+.pytest_cache
+
+#Jupyter Notebook
+RoughAnalysis.ipynb

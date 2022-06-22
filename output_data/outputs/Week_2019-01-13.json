@@ -1,0 +1,1344 @@
+{
+    "C2": {
+        "purchase_count": 5,
+        "loyalty_score": 4,
+        "product_id": [
+            "P09",
+            "P08",
+            "P03",
+            "P05",
+            "P01"
+        ],
+        "product_category": [
+            "house",
+            "house",
+            "house",
+            "house",
+            "house"
+        ]
+    },
+    "C3": {
+        "purchase_count": 11,
+        "loyalty_score": 8,
+        "product_id": [
+            "P23",
+            "P36",
+            "P38",
+            "P35",
+            "P37",
+            "P11",
+            "P02",
+            "P40",
+            "P12",
+            "P64",
+            "P64"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "house",
+            "house",
+            "sweets",
+            "house",
+            "bws",
+            "bws"
+        ]
+    },
+    "C5": {
+        "purchase_count": 2,
+        "loyalty_score": 7,
+        "product_id": [
+            "P62",
+            "P30"
+        ],
+        "product_category": [
+            "bws",
+            "fruit_veg"
+        ]
+    },
+    "C6": {
+        "purchase_count": 3,
+        "loyalty_score": 10,
+        "product_id": [
+            "P06",
+            "P35",
+            "P37"
+        ],
+        "product_category": [
+            "house",
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C7": {
+        "purchase_count": 2,
+        "loyalty_score": 3,
+        "product_id": [
+            "P58",
+            "P46"
+        ],
+        "product_category": [
+            "food",
+            "food"
+        ]
+    },
+    "C9": {
+        "purchase_count": 2,
+        "loyalty_score": 8,
+        "product_id": [
+            "P40",
+            "P58"
+        ],
+        "product_category": [
+            "sweets",
+            "food"
+        ]
+    },
+    "C10": {
+        "purchase_count": 3,
+        "loyalty_score": 5,
+        "product_id": [
+            "P46",
+            "P41",
+            "P55"
+        ],
+        "product_category": [
+            "food",
+            "food",
+            "food"
+        ]
+    },
+    "C11": {
+        "purchase_count": 3,
+        "loyalty_score": 4,
+        "product_id": [
+            "P41",
+            "P56",
+            "P46"
+        ],
+        "product_category": [
+            "food",
+            "food",
+            "food"
+        ]
+    },
+    "C12": {
+        "purchase_count": 4,
+        "loyalty_score": 8,
+        "product_id": [
+            "P23",
+            "P22",
+            "P25",
+            "P61"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg",
+            "bws"
+        ]
+    },
+    "C13": {
+        "purchase_count": 3,
+        "loyalty_score": 8,
+        "product_id": [
+            "P61",
+            "P36",
+            "P64"
+        ],
+        "product_category": [
+            "bws",
+            "sweets",
+            "bws"
+        ]
+    },
+    "C14": {
+        "purchase_count": 6,
+        "loyalty_score": 3,
+        "product_id": [
+            "P37",
+            "P35",
+            "P38",
+            "P39",
+            "P38",
+            "P35"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C16": {
+        "purchase_count": 0,
+        "loyalty_score": 5,
+        "product_id": [],
+        "product_category": []
+    },
+    "C18": {
+        "purchase_count": 4,
+        "loyalty_score": 8,
+        "product_id": [
+            "P15",
+            "P26",
+            "P33",
+            "P25"
+        ],
+        "product_category": [
+            "clothes",
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg"
+        ]
+    },
+    "C19": {
+        "purchase_count": 0,
+        "loyalty_score": 6,
+        "product_id": [],
+        "product_category": []
+    },
+    "C20": {
+        "purchase_count": 0,
+        "loyalty_score": 2,
+        "product_id": [],
+        "product_category": []
+    },
+    "C22": {
+        "purchase_count": 8,
+        "loyalty_score": 1,
+        "product_id": [
+            "P35",
+            "P38",
+            "P43",
+            "P49",
+            "P53",
+            "P45",
+            "P51",
+            "P56"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets",
+            "food",
+            "food",
+            "food",
+            "food",
+            "food",
+            "food"
+        ]
+    },
+    "C23": {
+        "purchase_count": 3,
+        "loyalty_score": 10,
+        "product_id": [
+            "P02",
+            "P11",
+            "P05"
+        ],
+        "product_category": [
+            "house",
+            "house",
+            "house"
+        ]
+    },
+    "C24": {
+        "purchase_count": 1,
+        "loyalty_score": 6,
+        "product_id": [
+            "P10"
+        ],
+        "product_category": [
+            "house"
+        ]
+    },
+    "C25": {
+        "purchase_count": 1,
+        "loyalty_score": 9,
+        "product_id": [
+            "P25"
+        ],
+        "product_category": [
+            "fruit_veg"
+        ]
+    },
+    "C26": {
+        "purchase_count": 2,
+        "loyalty_score": 1,
+        "product_id": [
+            "P24",
+            "P33"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "fruit_veg"
+        ]
+    },
+    "C27": {
+        "purchase_count": 2,
+        "loyalty_score": 10,
+        "product_id": [
+            "P64",
+            "P62"
+        ],
+        "product_category": [
+            "bws",
+            "bws"
+        ]
+    },
+    "C28": {
+        "purchase_count": 2,
+        "loyalty_score": 3,
+        "product_id": [
+            "P35",
+            "P37"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C30": {
+        "purchase_count": 2,
+        "loyalty_score": 4,
+        "product_id": [
+            "P52",
+            "P45"
+        ],
+        "product_category": [
+            "food",
+            "food"
+        ]
+    },
+    "C31": {
+        "purchase_count": 5,
+        "loyalty_score": 9,
+        "product_id": [
+            "P50",
+            "P53",
+            "P22",
+            "P33",
+            "P22"
+        ],
+        "product_category": [
+            "food",
+            "food",
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg"
+        ]
+    },
+    "C33": {
+        "purchase_count": 7,
+        "loyalty_score": 5,
+        "product_id": [
+            "P35",
+            "P36",
+            "P36",
+            "P38",
+            "P36",
+            "P37",
+            "P03"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "house"
+        ]
+    },
+    "C34": {
+        "purchase_count": 0,
+        "loyalty_score": 3,
+        "product_id": [],
+        "product_category": []
+    },
+    "C36": {
+        "purchase_count": 6,
+        "loyalty_score": 5,
+        "product_id": [
+            "P64",
+            "P61",
+            "P61",
+            "P61",
+            "P64",
+            "P62"
+        ],
+        "product_category": [
+            "bws",
+            "bws",
+            "bws",
+            "bws",
+            "bws",
+            "bws"
+        ]
+    },
+    "C37": {
+        "purchase_count": 7,
+        "loyalty_score": 9,
+        "product_id": [
+            "P61",
+            "P61",
+            "P49",
+            "P52",
+            "P62",
+            "P64",
+            "P63"
+        ],
+        "product_category": [
+            "bws",
+            "bws",
+            "food",
+            "food",
+            "bws",
+            "bws",
+            "bws"
+        ]
+    },
+    "C40": {
+        "purchase_count": 7,
+        "loyalty_score": 4,
+        "product_id": [
+            "P10",
+            "P02",
+            "P10",
+            "P30",
+            "P28",
+            "P34",
+            "P62"
+        ],
+        "product_category": [
+            "house",
+            "house",
+            "house",
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg",
+            "bws"
+        ]
+    },
+    "C41": {
+        "purchase_count": 3,
+        "loyalty_score": 9,
+        "product_id": [
+            "P25",
+            "P39",
+            "P37"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C43": {
+        "purchase_count": 5,
+        "loyalty_score": 10,
+        "product_id": [
+            "P10",
+            "P01",
+            "P08",
+            "P30",
+            "P31"
+        ],
+        "product_category": [
+            "house",
+            "house",
+            "house",
+            "fruit_veg",
+            "fruit_veg"
+        ]
+    },
+    "C44": {
+        "purchase_count": 4,
+        "loyalty_score": 9,
+        "product_id": [
+            "P06",
+            "P08",
+            "P09",
+            "P08"
+        ],
+        "product_category": [
+            "house",
+            "house",
+            "house",
+            "house"
+        ]
+    },
+    "C45": {
+        "purchase_count": 6,
+        "loyalty_score": 10,
+        "product_id": [
+            "P36",
+            "P39",
+            "P35",
+            "P38",
+            "P35",
+            "P39"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C46": {
+        "purchase_count": 0,
+        "loyalty_score": 5,
+        "product_id": [],
+        "product_category": []
+    },
+    "C49": {
+        "purchase_count": 2,
+        "loyalty_score": 7,
+        "product_id": [
+            "P30",
+            "P29"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "fruit_veg"
+        ]
+    },
+    "C50": {
+        "purchase_count": 1,
+        "loyalty_score": 8,
+        "product_id": [
+            "P25"
+        ],
+        "product_category": [
+            "fruit_veg"
+        ]
+    },
+    "C51": {
+        "purchase_count": 2,
+        "loyalty_score": 3,
+        "product_id": [
+            "P43",
+            "P45"
+        ],
+        "product_category": [
+            "food",
+            "food"
+        ]
+    },
+    "C53": {
+        "purchase_count": 6,
+        "loyalty_score": 4,
+        "product_id": [
+            "P22",
+            "P12",
+            "P01",
+            "P29",
+            "P22",
+            "P25"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "house",
+            "house",
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg"
+        ]
+    },
+    "C56": {
+        "purchase_count": 0,
+        "loyalty_score": 4,
+        "product_id": [],
+        "product_category": []
+    },
+    "C57": {
+        "purchase_count": 2,
+        "loyalty_score": 2,
+        "product_id": [
+            "P10",
+            "P01"
+        ],
+        "product_category": [
+            "house",
+            "house"
+        ]
+    },
+    "C59": {
+        "purchase_count": 0,
+        "loyalty_score": 6,
+        "product_id": [],
+        "product_category": []
+    },
+    "C60": {
+        "purchase_count": 2,
+        "loyalty_score": 10,
+        "product_id": [
+            "P43",
+            "P49"
+        ],
+        "product_category": [
+            "food",
+            "food"
+        ]
+    },
+    "C61": {
+        "purchase_count": 2,
+        "loyalty_score": 4,
+        "product_id": [
+            "P38",
+            "P37"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C62": {
+        "purchase_count": 5,
+        "loyalty_score": 6,
+        "product_id": [
+            "P38",
+            "P37",
+            "P57",
+            "P42",
+            "P57"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets",
+            "food",
+            "food",
+            "food"
+        ]
+    },
+    "C63": {
+        "purchase_count": 3,
+        "loyalty_score": 2,
+        "product_id": [
+            "P37",
+            "P38",
+            "P39"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C64": {
+        "purchase_count": 0,
+        "loyalty_score": 10,
+        "product_id": [],
+        "product_category": []
+    },
+    "C65": {
+        "purchase_count": 2,
+        "loyalty_score": 2,
+        "product_id": [
+            "P01",
+            "P09"
+        ],
+        "product_category": [
+            "house",
+            "house"
+        ]
+    },
+    "C66": {
+        "purchase_count": 1,
+        "loyalty_score": 10,
+        "product_id": [
+            "P64"
+        ],
+        "product_category": [
+            "bws"
+        ]
+    },
+    "C67": {
+        "purchase_count": 1,
+        "loyalty_score": 4,
+        "product_id": [
+            "P50"
+        ],
+        "product_category": [
+            "food"
+        ]
+    },
+    "C68": {
+        "purchase_count": 1,
+        "loyalty_score": 8,
+        "product_id": [
+            "P07"
+        ],
+        "product_category": [
+            "house"
+        ]
+    },
+    "C69": {
+        "purchase_count": 5,
+        "loyalty_score": 7,
+        "product_id": [
+            "P61",
+            "P62",
+            "P59",
+            "P40",
+            "P38"
+        ],
+        "product_category": [
+            "bws",
+            "bws",
+            "food",
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C70": {
+        "purchase_count": 5,
+        "loyalty_score": 9,
+        "product_id": [
+            "P37",
+            "P39",
+            "P02",
+            "P06",
+            "P11"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets",
+            "house",
+            "house",
+            "house"
+        ]
+    },
+    "C72": {
+        "purchase_count": 0,
+        "loyalty_score": 5,
+        "product_id": [],
+        "product_category": []
+    },
+    "C73": {
+        "purchase_count": 1,
+        "loyalty_score": 2,
+        "product_id": [
+            "P53"
+        ],
+        "product_category": [
+            "food"
+        ]
+    },
+    "C74": {
+        "purchase_count": 0,
+        "loyalty_score": 5,
+        "product_id": [],
+        "product_category": []
+    },
+    "C75": {
+        "purchase_count": 6,
+        "loyalty_score": 8,
+        "product_id": [
+            "P63",
+            "P27",
+            "P29",
+            "P61",
+            "P61",
+            "P62"
+        ],
+        "product_category": [
+            "bws",
+            "fruit_veg",
+            "fruit_veg",
+            "bws",
+            "bws",
+            "bws"
+        ]
+    },
+    "C76": {
+        "purchase_count": 5,
+        "loyalty_score": 10,
+        "product_id": [
+            "P11",
+            "P09",
+            "P40",
+            "P39",
+            "P36"
+        ],
+        "product_category": [
+            "house",
+            "house",
+            "sweets",
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C77": {
+        "purchase_count": 0,
+        "loyalty_score": 9,
+        "product_id": [],
+        "product_category": []
+    },
+    "C78": {
+        "purchase_count": 2,
+        "loyalty_score": 9,
+        "product_id": [
+            "P31",
+            "P26"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "fruit_veg"
+        ]
+    },
+    "C79": {
+        "purchase_count": 6,
+        "loyalty_score": 1,
+        "product_id": [
+            "P64",
+            "P61",
+            "P61",
+            "P61",
+            "P64",
+            "P62"
+        ],
+        "product_category": [
+            "bws",
+            "bws",
+            "bws",
+            "bws",
+            "bws",
+            "bws"
+        ]
+    },
+    "C80": {
+        "purchase_count": 7,
+        "loyalty_score": 9,
+        "product_id": [
+            "P39",
+            "P39",
+            "P39",
+            "P37",
+            "P38",
+            "P40",
+            "P61"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "bws"
+        ]
+    },
+    "C81": {
+        "purchase_count": 2,
+        "loyalty_score": 7,
+        "product_id": [
+            "P39",
+            "P39"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C83": {
+        "purchase_count": 0,
+        "loyalty_score": 8,
+        "product_id": [],
+        "product_category": []
+    },
+    "C85": {
+        "purchase_count": 2,
+        "loyalty_score": 8,
+        "product_id": [
+            "P48",
+            "P49"
+        ],
+        "product_category": [
+            "food",
+            "food"
+        ]
+    },
+    "C86": {
+        "purchase_count": 0,
+        "loyalty_score": 8,
+        "product_id": [],
+        "product_category": []
+    },
+    "C87": {
+        "purchase_count": 0,
+        "loyalty_score": 3,
+        "product_id": [],
+        "product_category": []
+    },
+    "C88": {
+        "purchase_count": 6,
+        "loyalty_score": 1,
+        "product_id": [
+            "P61",
+            "P01",
+            "P02",
+            "P05",
+            "P08",
+            "P11"
+        ],
+        "product_category": [
+            "bws",
+            "house",
+            "house",
+            "house",
+            "house",
+            "house"
+        ]
+    },
+    "C89": {
+        "purchase_count": 0,
+        "loyalty_score": 8,
+        "product_id": [],
+        "product_category": []
+    },
+    "C90": {
+        "purchase_count": 1,
+        "loyalty_score": 3,
+        "product_id": [
+            "P64"
+        ],
+        "product_category": [
+            "bws"
+        ]
+    },
+    "C91": {
+        "purchase_count": 3,
+        "loyalty_score": 3,
+        "product_id": [
+            "P39",
+            "P17",
+            "P20"
+        ],
+        "product_category": [
+            "sweets",
+            "clothes",
+            "clothes"
+        ]
+    },
+    "C94": {
+        "purchase_count": 3,
+        "loyalty_score": 10,
+        "product_id": [
+            "P61",
+            "P64",
+            "P62"
+        ],
+        "product_category": [
+            "bws",
+            "bws",
+            "bws"
+        ]
+    },
+    "C95": {
+        "purchase_count": 4,
+        "loyalty_score": 7,
+        "product_id": [
+            "P36",
+            "P40",
+            "P40",
+            "P40"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C96": {
+        "purchase_count": 5,
+        "loyalty_score": 10,
+        "product_id": [
+            "P34",
+            "P33",
+            "P25",
+            "P26",
+            "P24"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg"
+        ]
+    },
+    "C97": {
+        "purchase_count": 2,
+        "loyalty_score": 9,
+        "product_id": [
+            "P58",
+            "P60"
+        ],
+        "product_category": [
+            "food",
+            "food"
+        ]
+    },
+    "C98": {
+        "purchase_count": 2,
+        "loyalty_score": 7,
+        "product_id": [
+            "P32",
+            "P30"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "fruit_veg"
+        ]
+    },
+    "C99": {
+        "purchase_count": 4,
+        "loyalty_score": 9,
+        "product_id": [
+            "P63",
+            "P63",
+            "P61",
+            "P63"
+        ],
+        "product_category": [
+            "bws",
+            "bws",
+            "bws",
+            "bws"
+        ]
+    },
+    "C100": {
+        "purchase_count": 0,
+        "loyalty_score": 8,
+        "product_id": [],
+        "product_category": []
+    },
+    "C102": {
+        "purchase_count": 0,
+        "loyalty_score": 1,
+        "product_id": [],
+        "product_category": []
+    },
+    "C103": {
+        "purchase_count": 2,
+        "loyalty_score": 7,
+        "product_id": [
+            "P38",
+            "P36"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C104": {
+        "purchase_count": 0,
+        "loyalty_score": 7,
+        "product_id": [],
+        "product_category": []
+    },
+    "C105": {
+        "purchase_count": 1,
+        "loyalty_score": 8,
+        "product_id": [
+            "P64"
+        ],
+        "product_category": [
+            "bws"
+        ]
+    },
+    "C106": {
+        "purchase_count": 2,
+        "loyalty_score": 5,
+        "product_id": [
+            "P61",
+            "P64"
+        ],
+        "product_category": [
+            "bws",
+            "bws"
+        ]
+    },
+    "C107": {
+        "purchase_count": 5,
+        "loyalty_score": 3,
+        "product_id": [
+            "P05",
+            "P26",
+            "P29",
+            "P31",
+            "P25"
+        ],
+        "product_category": [
+            "house",
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg"
+        ]
+    },
+    "C109": {
+        "purchase_count": 0,
+        "loyalty_score": 6,
+        "product_id": [],
+        "product_category": []
+    },
+    "C110": {
+        "purchase_count": 3,
+        "loyalty_score": 3,
+        "product_id": [
+            "P34",
+            "P33",
+            "P56"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "fruit_veg",
+            "food"
+        ]
+    },
+    "C111": {
+        "purchase_count": 4,
+        "loyalty_score": 1,
+        "product_id": [
+            "P17",
+            "P17",
+            "P17",
+            "P17"
+        ],
+        "product_category": [
+            "clothes",
+            "clothes",
+            "clothes",
+            "clothes"
+        ]
+    },
+    "C112": {
+        "purchase_count": 0,
+        "loyalty_score": 3,
+        "product_id": [],
+        "product_category": []
+    },
+    "C114": {
+        "purchase_count": 2,
+        "loyalty_score": 3,
+        "product_id": [
+            "P56",
+            "P43"
+        ],
+        "product_category": [
+            "food",
+            "food"
+        ]
+    },
+    "C115": {
+        "purchase_count": 0,
+        "loyalty_score": 1,
+        "product_id": [],
+        "product_category": []
+    },
+    "C116": {
+        "purchase_count": 6,
+        "loyalty_score": 5,
+        "product_id": [
+            "P37",
+            "P38",
+            "P35",
+            "P40",
+            "P39",
+            "P35"
+        ],
+        "product_category": [
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C120": {
+        "purchase_count": 2,
+        "loyalty_score": 9,
+        "product_id": [
+            "P55",
+            "P56"
+        ],
+        "product_category": [
+            "food",
+            "food"
+        ]
+    },
+    "C122": {
+        "purchase_count": 1,
+        "loyalty_score": 10,
+        "product_id": [
+            "P33"
+        ],
+        "product_category": [
+            "fruit_veg"
+        ]
+    },
+    "C125": {
+        "purchase_count": 2,
+        "loyalty_score": 1,
+        "product_id": [
+            "P05",
+            "P03"
+        ],
+        "product_category": [
+            "house",
+            "house"
+        ]
+    },
+    "C126": {
+        "purchase_count": 2,
+        "loyalty_score": 4,
+        "product_id": [
+            "P59",
+            "P55"
+        ],
+        "product_category": [
+            "food",
+            "food"
+        ]
+    },
+    "C127": {
+        "purchase_count": 4,
+        "loyalty_score": 4,
+        "product_id": [
+            "P24",
+            "P26",
+            "P56",
+            "P47"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "fruit_veg",
+            "food",
+            "food"
+        ]
+    },
+    "C129": {
+        "purchase_count": 8,
+        "loyalty_score": 7,
+        "product_id": [
+            "P58",
+            "P61",
+            "P64",
+            "P62",
+            "P45",
+            "P53",
+            "P45",
+            "P53"
+        ],
+        "product_category": [
+            "food",
+            "bws",
+            "bws",
+            "bws",
+            "food",
+            "food",
+            "food",
+            "food"
+        ]
+    },
+    "C131": {
+        "purchase_count": 5,
+        "loyalty_score": 4,
+        "product_id": [
+            "P62",
+            "P61",
+            "P63",
+            "P39",
+            "P35"
+        ],
+        "product_category": [
+            "bws",
+            "bws",
+            "bws",
+            "sweets",
+            "sweets"
+        ]
+    },
+    "C132": {
+        "purchase_count": 3,
+        "loyalty_score": 7,
+        "product_id": [
+            "P03",
+            "P02",
+            "P40"
+        ],
+        "product_category": [
+            "house",
+            "house",
+            "sweets"
+        ]
+    },
+    "C133": {
+        "purchase_count": 4,
+        "loyalty_score": 3,
+        "product_id": [
+            "P19",
+            "P21",
+            "P18",
+            "P17"
+        ],
+        "product_category": [
+            "clothes",
+            "clothes",
+            "clothes",
+            "clothes"
+        ]
+    },
+    "C134": {
+        "purchase_count": 2,
+        "loyalty_score": 6,
+        "product_id": [
+            "P64",
+            "P63"
+        ],
+        "product_category": [
+            "bws",
+            "bws"
+        ]
+    },
+    "C136": {
+        "purchase_count": 4,
+        "loyalty_score": 10,
+        "product_id": [
+            "P26",
+            "P29",
+            "P23",
+            "P22"
+        ],
+        "product_category": [
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg",
+            "fruit_veg"
+        ]
+    },
+    "C137": {
+        "purchase_count": 2,
+        "loyalty_score": 9,
+        "product_id": [
+            "P38",
+            "P58"
+        ],
+        "product_category": [
+            "sweets",
+            "food"
+        ]
+    }
+}
