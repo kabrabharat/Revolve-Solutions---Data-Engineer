@@ -3,7 +3,7 @@
 
 #checkpoints and cache
 .ipynb_checkpoints
-.pytest_cache
+.pytest_cache/
 
 #Jupyter Notebook
 RoughAnalysis.ipynb

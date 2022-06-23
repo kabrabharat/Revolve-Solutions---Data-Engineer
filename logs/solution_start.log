@@ -1,0 +1,137 @@
+2022-06-23 21:58:35,544 : INFO : logging configured - Start
+2022-06-23 21:58:35,544 : INFO : Getting default or input arguments
+2022-06-23 21:58:35,559 : INFO : Inside read_csv_files() function
+2022-06-23 21:58:35,559 : INFO : Reading the customers.csv file into pandas->dataframe
+2022-06-23 21:58:35,559 : INFO : Reading the products.csv file into pandas->dataframe
+2022-06-23 21:58:35,559 : INFO : Listing all the directories inside ./input_data/starter/transactions/
+2022-06-23 21:58:35,559 : INFO : Inside read_transaction_json_files() function
+2022-06-23 21:58:35,559 : INFO : Iterating over the list of transaction directories
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-01 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-02 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-03 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-04 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-05 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-06 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-07 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-08 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-09 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-10 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-11 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-12 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-13 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-14 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-15 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-16 folder
+2022-06-23 21:58:35,559 : INFO : Reading transactions.json file inside d=2018-12-17 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-18 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-19 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-20 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-21 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-22 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-23 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-24 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-25 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-26 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-27 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-28 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-29 folder
+2022-06-23 21:58:35,575 : INFO : Reading transactions.json file inside d=2018-12-30 folder
+2022-06-23 21:58:35,726 : INFO : Reading transactions.json file inside d=2018-12-31 folder
+2022-06-23 21:58:35,728 : INFO : Reading transactions.json file inside d=2019-01-01 folder
+2022-06-23 21:58:35,728 : INFO : Reading transactions.json file inside d=2019-01-02 folder
+2022-06-23 21:58:35,728 : INFO : Reading transactions.json file inside d=2019-01-03 folder
+2022-06-23 21:58:35,728 : INFO : Reading transactions.json file inside d=2019-01-04 folder
+2022-06-23 21:58:35,728 : INFO : Reading transactions.json file inside d=2019-01-05 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-06 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-07 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-08 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-09 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-10 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-11 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-12 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-13 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-14 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-15 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-16 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-17 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-18 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-19 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-20 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-21 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-22 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-23 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-24 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-25 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-26 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-27 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-28 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-29 folder
+2022-06-23 21:58:35,729 : INFO : Reading transactions.json file inside d=2019-01-30 folder
+2022-06-23 21:58:35,736 : INFO : Reading transactions.json file inside d=2019-01-31 folder
+2022-06-23 21:58:35,736 : INFO : Reading transactions.json file inside d=2019-02-01 folder
+2022-06-23 21:58:35,736 : INFO : Reading transactions.json file inside d=2019-02-02 folder
+2022-06-23 21:58:35,736 : INFO : Reading transactions.json file inside d=2019-02-03 folder
+2022-06-23 21:58:35,736 : INFO : Reading transactions.json file inside d=2019-02-04 folder
+2022-06-23 21:58:35,736 : INFO : Reading transactions.json file inside d=2019-02-05 folder
+2022-06-23 21:58:35,736 : INFO : Reading transactions.json file inside d=2019-02-06 folder
+2022-06-23 21:58:35,736 : INFO : Reading transactions.json file inside d=2019-02-07 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-08 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-09 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-10 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-11 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-12 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-13 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-14 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-15 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-16 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-17 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-18 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-19 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-20 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-21 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-22 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-23 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-24 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-25 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-26 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-27 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-02-28 folder
+2022-06-23 21:58:35,738 : INFO : Reading transactions.json file inside d=2019-03-01 folder
+2022-06-23 21:58:35,738 : INFO : Converting Lists of JSON files into Pandas->DataFrame
+2022-06-23 21:58:35,770 : INFO : Inside separate_column_elements() function for basket column values division and separation
+2022-06-23 21:58:37,125 : INFO : created the separate columns for values inside basket column, and deleted basket column
+2022-06-23 21:58:37,125 : INFO : Inside merge_dataframes() function
+2022-06-23 21:58:37,125 : INFO : Merging relevant Product Columns to transactions dataframe
+2022-06-23 21:58:37,135 : INFO : Merging relevant Customer Columns to transactions dataframe
+2022-06-23 21:58:37,135 : INFO : Inside segregate_weekly() function
+2022-06-23 21:58:37,208 : INFO : Sorting final dataframe date-wise
+2022-06-23 21:58:37,216 : INFO : Iteration for Weekly Separation of DataFrame
+2022-06-23 21:58:37,216 : INFO : Inside generate_json() Function
+2022-06-23 21:58:37,240 : INFO : Storing Week_2018-12-02.json file
+2022-06-23 21:58:37,240 : INFO : Inside generate_json() Function
+2022-06-23 21:58:37,306 : INFO : Storing Week_2018-12-09.json file
+2022-06-23 21:58:37,306 : INFO : Inside generate_json() Function
+2022-06-23 21:58:37,369 : INFO : Storing Week_2018-12-16.json file
+2022-06-23 21:58:37,371 : INFO : Inside generate_json() Function
+2022-06-23 21:58:37,434 : INFO : Storing Week_2018-12-23.json file
+2022-06-23 21:58:37,445 : INFO : Inside generate_json() Function
+2022-06-23 21:58:37,509 : INFO : Storing Week_2018-12-30.json file
+2022-06-23 21:58:37,518 : INFO : Inside generate_json() Function
+2022-06-23 21:58:37,583 : INFO : Storing Week_2019-01-06.json file
+2022-06-23 21:58:37,591 : INFO : Inside generate_json() Function
+2022-06-23 21:58:37,668 : INFO : Storing Week_2019-01-13.json file
+2022-06-23 21:58:37,677 : INFO : Inside generate_json() Function
+2022-06-23 21:58:37,744 : INFO : Storing Week_2019-01-20.json file
+2022-06-23 21:58:37,751 : INFO : Inside generate_json() Function
+2022-06-23 21:58:37,826 : INFO : Storing Week_2019-01-27.json file
+2022-06-23 21:58:37,826 : INFO : Inside generate_json() Function
+2022-06-23 21:58:37,925 : INFO : Storing Week_2019-02-03.json file
+2022-06-23 21:58:37,927 : INFO : Inside generate_json() Function
+2022-06-23 21:58:38,008 : INFO : Storing Week_2019-02-10.json file
+2022-06-23 21:58:38,008 : INFO : Inside generate_json() Function
+2022-06-23 21:58:38,097 : INFO : Storing Week_2019-02-17.json file
+2022-06-23 21:58:38,099 : INFO : Inside generate_json() Function
+2022-06-23 21:58:38,178 : INFO : Storing Week_2019-02-24.json file
+2022-06-23 21:58:38,180 : INFO : Inside generate_json() Function
+2022-06-23 21:58:38,242 : INFO : Storing Week_2019-03-01.json file
+2022-06-23 21:58:38,248 : INFO : Done!
