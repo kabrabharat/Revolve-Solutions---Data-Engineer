@@ -1,6 +1,0 @@
-[
-  "test.py::test_sorted_alphanumeric_Ids[input_list0-output_list0]",
-  "test.py::test_sorted_alphanumeric_Ids[input_list1-output_list1]",
-  "test.py::test_merge_dataframes[product_df0-customer_df0-transaction_df0-final_df0]",
-  "test.py::test_separate_column_elements[transaction_raw_df0-transaction_df0]"
-]
