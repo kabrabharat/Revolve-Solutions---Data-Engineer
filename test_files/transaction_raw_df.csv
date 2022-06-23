@@ -1,0 +1,3 @@
+customer_id,basket,date_of_purchase
+C1,"[{""product_id"":""P40"",""price"":1876}, {""product_id"":""P36"",""price"": 1065}]",2018-12-01 15:50:00
+C2,"[{""product_id"":""P07"",""price"":156}, {""product_id"":""P12"",""price"": 1266}]",2018-12-01 12:31:00

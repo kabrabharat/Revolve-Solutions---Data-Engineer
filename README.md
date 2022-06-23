@@ -1,5 +1,7 @@
 # Revolve Solutions Data Test - Starter Project
 
+[Additional Solution Details](https://github.com/kabrabharat/Revolve-Solutions---Data-Engineer/blob/main/solution.md)
+
 ### Prerequisites
 #### Java JDK 8
 >

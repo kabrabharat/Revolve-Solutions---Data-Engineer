@@ -87,6 +87,10 @@ def separate_column_elements(transaction_raw_df : pd.DataFrame) -> pd.DataFrame:
 
     logging.info('Inside separate_column_elements() function for basket column values division and separation')
 
+    # convert each row of basket column to JSON object --> for testing by giving external csv file instead of dataframe created
+    if type(transaction_raw_df['basket'][0]) == str:
+        transaction_raw_df['basket'] = transaction_raw_df['basket'].apply(json.loads)
+
     # exploding basket column's data into individual row as it contain list of dictionary
     intermediate_df : pd.DataFrame = transaction_raw_df.explode('basket').reset_index(drop=True)
     

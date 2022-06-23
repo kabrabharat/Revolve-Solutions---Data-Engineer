@@ -1,0 +1,5 @@
+customer_id,date_of_purchase,product_id,price,product_category,loyalty_score
+C1,2018-12-01 15:50:00,P40,1876,sweets,7
+C1,2018-12-01 15:50:00,P36,1065,sweets,7
+C2,2018-12-01 12:31:00,P07,156,house,4
+C2,2018-12-01 12:31:00,P12,1266,house,4
